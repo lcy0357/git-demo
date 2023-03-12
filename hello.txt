@@ -4,8 +4,8 @@ hello world
 hello world
 hello world
 hello world
-hello world
 hello world master changed
+hello world hot-fix changed
 fix1
 fix2
 fix3--on hot-fix branch
